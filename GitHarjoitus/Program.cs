@@ -11,7 +11,9 @@ namespace GitHarjoitus
         static void Main(string[] args)
         {
             Console.Write("Tere tere");
-            Console.ReadLine(); 
+            Console.ReadLine();
+            Console.WriteLine("Moro maailma");
+            Console.ReadLine();
         }
     }
 }
